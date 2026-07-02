@@ -38,7 +38,7 @@ Passionate about building real-world software, learning Artificial Intelligence,
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,git,github,vscode,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql,git,github,vscode,html,css,js"/>
 
 </p>
 
