@@ -2,6 +2,12 @@
   <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Python+Developer;AI+Enthusiast;Java+%7C+C+%7C+SQL;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Ashweent Kumar</h1>
 
@@ -50,11 +56,9 @@ Passionate about building real-world software, learning Artificial Intelligence,
 ---
 
 # 📊 GitHub Stats
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ashweent&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashweent&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Ashweent&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -128,3 +132,15 @@ Passionate about building real-world software, learning Artificial Intelligence,
 # 💬 Quote
 
 > *"Code. Learn. Build. Repeat."* 🚀
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashweent&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+
+If you like my work, don't forget to ⭐ my repositories.
+</p>
